@@ -12,6 +12,16 @@ p {
 }
 
 <style>
+#myFavoriteText {
+  background-color: lightpink;
+  color: black;
+  padding: 80px;
+  text-align: center;
+}
+</style>
+
+
+<style>
 .green-text {
 color: #008000;
 }
