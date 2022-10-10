@@ -5,10 +5,9 @@ body {
 h1 {
   color: navy;
   margin-left: 500px;
-  border:50px solid ##C75069;
+  border:200px solid ##C75069;
   width:500px;
   height:200px;
-  padding:50px;
 }
 
 h2 {
