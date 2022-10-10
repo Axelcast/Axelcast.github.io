@@ -13,9 +13,10 @@ p {
 
 <style>
 #myFavoriteText {
-  background-color: lightpink;
+  background-color: purple;
   color: black;
   padding: 80px;
+  margin-left: 600px;
   text-align: center;
 }
 </style>
