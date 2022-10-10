@@ -8,6 +8,36 @@ h1 {
 }
 
 p {
- color: purple;
+ color: navy;
  margin-left: 40px; 
 }
+
+<style>
+.green-text {
+color: #008000;
+}
+</style>
+
+<style>
+.font-36{
+font-size: 36px;
+}
+</style>
+
+
+<style>
+.blue-text {
+color: #0000FF;
+}
+</style>
+
+<style>
+.font-72{
+font-size: 72px;
+}
+</style>
+
+
+
+
+
